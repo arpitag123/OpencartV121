@@ -1,0 +1,32 @@
+2025-02-18 21:03:02 [main] INFO  testCases.TC001_AccountRegistrationPage - *****Starting TC001_AccountRegistrationPage***** 
+2025-02-18 21:03:05 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on my account link 
+2025-02-18 21:03:05 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on my register link 
+2025-02-18 21:03:05 [main] INFO  testCases.TC001_AccountRegistrationPage - Providing customer details ..... 
+2025-02-18 21:03:07 [main] INFO  testCases.TC001_AccountRegistrationPage - Validating expected msg 
+2025-02-18 21:03:07 [main] INFO  testCases.TC001_AccountRegistrationPage - ***Finished TC001_AccountRegistrationPage Test****** 
+2025-02-18 21:03:15 [main] INFO  testCases.TC002_LoginTest - ** Starting TC_002_LoginTest
+2025-02-18 21:03:18 [main] INFO  testCases.TC002_LoginTest - *** finished TC_002_LoginTest*******
+2025-02-18 21:09:09 [main] INFO  testCases.TC001_AccountRegistrationPage - *****Starting TC001_AccountRegistrationPage***** 
+2025-02-18 21:09:12 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on my account link 
+2025-02-18 21:09:12 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on my register link 
+2025-02-18 21:09:12 [main] INFO  testCases.TC001_AccountRegistrationPage - Providing customer details ..... 
+2025-02-18 21:09:14 [main] INFO  testCases.TC001_AccountRegistrationPage - Validating expected msg 
+2025-02-18 21:09:14 [main] INFO  testCases.TC001_AccountRegistrationPage - ***Finished TC001_AccountRegistrationPage Test****** 
+2025-02-18 21:09:20 [main] INFO  testCases.TC002_LoginTest - ** Starting TC_002_LoginTest
+2025-02-18 21:09:23 [main] INFO  testCases.TC002_LoginTest - *** finished TC_002_LoginTest*******
+2025-02-18 21:29:41 [main] INFO  testCases.TC001_AccountRegistrationPage - *****Starting TC001_AccountRegistrationPage***** 
+2025-02-18 21:29:41 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on my account link 
+2025-02-18 21:29:42 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on my register link 
+2025-02-18 21:29:42 [main] INFO  testCases.TC001_AccountRegistrationPage - Providing customer details ..... 
+2025-02-18 21:29:44 [main] INFO  testCases.TC001_AccountRegistrationPage - Validating expected msg 
+2025-02-18 21:29:44 [main] INFO  testCases.TC001_AccountRegistrationPage - ***Finished TC001_AccountRegistrationPage Test****** 
+2025-02-18 21:29:53 [main] INFO  testCases.TC002_LoginTest - ** Starting TC_002_LoginTest
+2025-02-18 21:29:57 [main] INFO  testCases.TC002_LoginTest - *** finished TC_002_LoginTest*******
+2025-02-18 21:55:48 [main] INFO  testCases.TC001_AccountRegistrationPage - *****Starting TC001_AccountRegistrationPage***** 
+2025-02-18 21:55:49 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on my account link 
+2025-02-18 21:55:50 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on my register link 
+2025-02-18 21:55:50 [main] INFO  testCases.TC001_AccountRegistrationPage - Providing customer details ..... 
+2025-02-18 21:55:51 [main] INFO  testCases.TC001_AccountRegistrationPage - Validating expected msg 
+2025-02-18 21:55:52 [main] INFO  testCases.TC001_AccountRegistrationPage - ***Finished TC001_AccountRegistrationPage Test****** 
+2025-02-18 21:55:59 [main] INFO  testCases.TC002_LoginTest - ** Starting TC_002_LoginTest
+2025-02-18 21:56:03 [main] INFO  testCases.TC002_LoginTest - *** finished TC_002_LoginTest*******
